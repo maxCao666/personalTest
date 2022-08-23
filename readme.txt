@@ -1,1 +1,1 @@
-learn git now
+learn git new
