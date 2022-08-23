@@ -1,1 +1,1 @@
-learn git new
+learn git new as a distributed system
